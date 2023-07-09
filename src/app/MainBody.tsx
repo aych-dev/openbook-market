@@ -29,7 +29,7 @@ const MainBody = () => {
           </form>
           <div className='flex items-center justify-center'>
             <button className='mb-2 bg-blue-500 hover:bg-blue-700 rounded text-white text-xl mt-5 p-2'>
-              submit
+              Submit
             </button>
           </div>
         </div>
